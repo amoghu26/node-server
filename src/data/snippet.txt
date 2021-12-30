@@ -1,0 +1,8 @@
+Computer security is security applied to computing devices such as 
+computers and smartphones, as well as computer networkssuch as private and public 
+networks, including the whole Internet. The field covers all the processes and mechanisms by 
+which digital equipment, information and services are protected from unintended or 
+unauthorized access, change or destruction, and are of growing importance in line with the 
+increasing reliance on computer systems of most societies worldwide. It includes physical 
+security to prevent theft of equipment, and information security to protect the data on that 
+equipment.

@@ -1,0 +1,69 @@
+[
+    [
+      {
+        "question": "What planet has life in this universe?",
+        "context": "So, you can select any essay according to your need and requirement. As we all know that earth is the only known planet having life in this universe. So we should respect and maintain everything we get from our mother earth.",
+        "question_id": "af293edc-da2b-11eb-bea4-07672347282e",
+        "answer": "earth",
+        "answer_prob": 0.9612063765525818,
+        "valid_prob": 0.9781010150909424
+      },
+      {
+        "question": "What should we respect and maintain?",
+        "context": "So, you can select any essay according to your need and requirement. As we all know that earth is the only known planet having life in this universe. So we should respect and maintain everything we get from our mother earth.",
+        "question_id": "af293edd-da2b-11eb-bea4-07672347282e",
+        "answer": "everything we get from our mother earth",
+        "answer_prob": 0.7723367214202881,
+        "valid_prob": 0.9286117553710938
+      }
+    ],
+    [
+      {
+        "question": "What do teachers do in order to spread awareness among students?",
+        "context": "In order to spread awareness among students, teachers may assign them to write some paragraph or complete essay on save earth. Now-a-days, essay writing is one of the good strategies followed by teachers in the schools and colleges. It enhances the English writing skill and knowledge of the students about any topic.",
+        "question_id": "af88a232-da2b-11eb-8119-551aea4720ad",
+        "answer": "write some paragraph or complete essay on save earth",
+        "answer_prob": 0.6519777774810791,
+        "valid_prob": 0.9776727557182312
+      },
+      {
+        "question": "What is one of the good strategies used by teachers in schools?",
+        "context": "In order to spread awareness among students, teachers may assign them to write some paragraph or complete essay on save earth. Now-a-days, essay writing is one of the good strategies followed by teachers in the schools and colleges. It enhances the English writing skill and knowledge of the students about any topic.",
+        "question_id": "af88a233-da2b-11eb-8119-551aea4720ad",
+        "answer": "essay writing",
+        "answer_prob": 0.7641817927360535,
+        "valid_prob": 0.9789347052574158
+      }
+    ],
+    [],
+    [
+      {
+        "question": "What should everyone do to curb the pollution and reduce the effects of global warming?",
+        "context": "Everyone should plant more trees in the surrounding areas to curb the pollution and reduce the effects of global warming. Afforestation, reforestation, recycling of used paper and other natural products, saving of natural resources (minerals, coal, stones, oil, etc), electricity, water and environment should be supported and promoted.",
+        "question_id": "b0ac34c6-da2b-11eb-8119-551aea4720ad",
+        "answer": "plant more trees",
+        "answer_prob": 0.5787252187728882,
+        "valid_prob": 0.9937801957130432
+      }
+    ],
+    [
+      {
+        "question": "What is an effective way to get views, ideas, and positive suggestions by students?",
+        "context": "It is also an effective way to get views, ideas and positive suggestions about any topic by the students. Following are some paragraphs, short essays and long essays on save earth to help students in completing their task. All the save earth essay are written very simply.",
+        "question_id": "b18d9e34-da2b-11eb-bea4-07672347282e",
+        "answer": "save earth",
+        "answer_prob": 0.659844160079956,
+        "valid_prob": 0.8107802271842957
+      }
+    ],
+    [
+      {
+        "question": "We should save the mother earth so that future generations can live in what environment?",
+        "context": "We should save the mother earth so that our future generations can live in a safe environment. We can save the earth by saving trees, natural vegetation, water, natural resources, electricity, etc. We should strictly follow all the possible measures to control the environmental pollution and global warming.",
+        "question_id": "b21ec0c6-da2b-11eb-8119-551aea4720ad",
+        "answer": "safe",
+        "answer_prob": 0.6114654541015625,
+        "valid_prob": 0.9492743015289307
+      }
+    ]
+  ]

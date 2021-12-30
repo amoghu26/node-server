@@ -1,0 +1,137 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the most important social awareness that everyone must know about to bring some positive changes on the earth?",
+        "context": "Earth is our planet and a most important need for the continuity of life. It is full of all the basic resources to continue a life however; it is getting declined continuously because of some unethical behavior of the human being. Saving earth is the most important social awareness which everyone must know about to bring some positive changes on the earth.",
+        "question_id": "b73d728a-e0b5-11eb-a3bc-e9766ed4aad0",
+        "answer": "Saving earth",
+        "answer_prob": 0.977940559387207,
+        "valid_prob": 0.9812507629394531,
+        "correct": 4,
+        "distractors": [
+          "Saving Mars",
+          "Preserving earth",
+          "Saving Planet",
+          "Saving earth"
+        ]
+      },
+      {
+        "question": "What do teachers do in order to spread awareness among students?",
+        "context": "In order to spread awareness among students, teachers may assign them to write some paragraph or complete essay on save earth. Now-a-days, essay writing is one of the good strategies followed by teachers in the schools and colleges. It enhances the English writing skill and knowledge of the students about any topic.",
+        "question_id": "b5f7566e-e0b5-11eb-a3bc-e9766ed4aad0",
+        "answer": "write some paragraph or complete essay on save earth",
+        "answer_prob": 0.6519777774810791,
+        "valid_prob": 0.9909437298774719,
+        "correct": 2,
+        "distractors": [
+          "write some paragraph or fractional essay on save earth",
+          "write some paragraph or complete essay on save earth",
+          "write some quoted sentence or noncomprehensive essay on save earth"
+        ]
+      },
+      {
+        "question": "What is one of the good strategies followed by teachers in schools and colleges?",
+        "context": "In order to spread awareness among students, teachers may assign them to write some paragraph or complete essay on save earth. Now-a-days, essay writing is one of the good strategies followed by teachers in the schools and colleges. It enhances the English writing skill and knowledge of the students about any topic.",
+        "question_id": "b5f7566f-e0b5-11eb-a3bc-e9766ed4aad0",
+        "answer": "Now-a-days, essay writing",
+        "answer_prob": 0.5202403664588928,
+        "valid_prob": 0.6944290995597839,
+        "correct": 1,
+        "distractors": [
+          "Now-a-days, essay writing",
+          "Now-a-days, dissertation writing",
+          "Now-a-day, essay writing",
+          "Now-a-days, essay typing",
+          "Now-a-days, essay write"
+        ]
+      },
+      {
+        "question": "Essay writing enhances the English writing skill and knowledge of students about what?",
+        "context": "In order to spread awareness among students, teachers may assign them to write some paragraph or complete essay on save earth. Now-a-days, essay writing is one of the good strategies followed by teachers in the schools and colleges. It enhances the English writing skill and knowledge of the students about any topic.",
+        "question_id": "b5f75670-e0b5-11eb-a3bc-e9766ed4aad0",
+        "answer": "any topic",
+        "answer_prob": 0.8675870895385742,
+        "valid_prob": 0.9179052114486694,
+        "correct": 2,
+        "distractors": ["any subject", "any topic"]
+      },
+      {
+        "question": "What is an effective way to get views, ideas and positive suggestions about any topic by students?",
+        "context": "It is also an effective way to get views, ideas and positive suggestions about any topic by the students. Following are some paragraphs, short essays and long essays on save earth to help students in completing their task. All the save earth essay are written very simply.",
+        "question_id": "b73d7288-e0b5-11eb-a3bc-e9766ed4aad0",
+        "answer": "save earth",
+        "answer_prob": 0.6869258880615234,
+        "valid_prob": 0.5882892608642578,
+        "correct": 1,
+        "distractors": ["save earth", "saving earth"]
+      },
+      {
+        "question": "What is the only known planet that has life in this universe?",
+        "context": "So, you can select any essay according to your need and requirement. As we all know that earth is the only known planet having life in this universe. So we should respect and maintain everything we get from our mother earth.",
+        "question_id": "b5749b84-e0b5-11eb-b783-5b1c59965e5e",
+        "answer": "earth",
+        "answer_prob": 0.9736210703849792,
+        "valid_prob": 0.9856497645378113,
+        "correct": 3,
+        "distractors": ["Mars", "Jupiter", "earth", "Sun"]
+      },
+      {
+        "question": "What should we respect and maintain from our mother earth?",
+        "context": "So, you can select any essay according to your need and requirement. As we all know that earth is the only known planet having life in this universe. So we should respect and maintain everything we get from our mother earth.",
+        "question_id": "b5749b85-e0b5-11eb-b783-5b1c59965e5e",
+        "answer": "everything we get",
+        "answer_prob": 0.9046399593353271,
+        "valid_prob": 0.9671825170516968,
+        "correct": 3,
+        "distractors": [
+          "everything we gotten",
+          "everything we give",
+          "everything we get",
+          "everything we got"
+        ]
+      },
+      {
+        "question": "What should we save so that our future generations can live in a safe environment?",
+        "context": "We should save the mother earth so that our future generations can live in a safe environment. We can save the earth by saving trees, natural vegetation, water, natural resources, electricity, etc. We should strictly follow all the possible measures to control the environmental pollution and global warming.",
+        "question_id": "b5bbe91c-e0b5-11eb-9008-cff1748fc5ce",
+        "answer": "the mother earth",
+        "answer_prob": 0.7604848742485046,
+        "valid_prob": 0.9210420846939087,
+        "correct": 2,
+        "distractors": [
+          "the mom earth",
+          "the mother earth",
+          "the aunt earth",
+          "the mother Mars"
+        ]
+      },
+      {
+        "question": "What can we save by saving trees, natural vegetation, water, natural resources, electricity, etc?",
+        "context": "We should save the mother earth so that our future generations can live in a safe environment. We can save the earth by saving trees, natural vegetation, water, natural resources, electricity, etc. We should strictly follow all the possible measures to control the environmental pollution and global warming.",
+        "question_id": "b5bbe91d-e0b5-11eb-9008-cff1748fc5ce",
+        "answer": "the earth",
+        "answer_prob": 0.6436612606048584,
+        "valid_prob": 0.9443666934967041,
+        "correct": 2,
+        "distractors": ["Earth", "the earth"]
+      },
+      {
+        "question": "Why should everyone plant more trees in the surrounding areas?",
+        "context": "Everyone should plant more trees in the surrounding areas to curb the pollution and reduce the effects of global warming. Afforestation, reforestation, recycling of used paper and other natural products, saving of natural resources (minerals, coal, stones, oil, etc), electricity, water and environment should be supported and promoted.",
+        "question_id": "b6ac308e-e0b5-11eb-9008-cff1748fc5ce",
+        "answer": "to curb the pollution and reduce the effects of global warming",
+        "answer_prob": 0.5025855898857117,
+        "valid_prob": 0.9980819225311279,
+        "correct": 2,
+        "distractors": [
+          "to curb the carbon emissions and reduce the effects of bottom warming",
+          "to curb the pollution and reduce the effects of global warming",
+          "to pavement the pollution and reduce the effects of global warming",
+          "to curb the pollution and reduce the effects of global heating"
+        ]
+      }
+    ],
+    "questionsLength": 10
+  }
+}

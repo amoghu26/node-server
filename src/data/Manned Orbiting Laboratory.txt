@@ -1,0 +1,172 @@
+Operations management is an area of management
+concerned with designing and controlling the process of
+production and redesigning business operations in the
+production of goods or services. It involves the responsibility of
+ensuring that business operations are efficient in terms of
+using as few resources as needed and effective in terms of
+meeting customer requirements. Operations management is
+primarily concerned with planning, organizing and supervising
+in the contexts of production, manufacturing or the provision of
+services.
+It is concerned with managing an entire production or service
+system which is the process that converts inputs (in the forms
+of raw materials, labor, consumers, and energy) into outputs
+(in the form of goods and/or services for consumers).
+Operations produce products, manage quality and create services. Operation management covers sectors like
+banking systems, hospitals, companies, working with suppliers, customers, and using technology. Operations is
+one of the major functions in an organization along with supply chains, marketing, finance and human resources.
+The operations function requires management of both the strategic and day-to-day production of goods and
+services.
+In managing manufacturing or service operations several types of decisions are made including operations
+strategy, product design, process design, quality management, capacity, facilities planning, production planning
+and inventory control. Each of these requires an ability to analyze the current situation and find better solutions to
+improve the effectiveness and efficiency of manufacturing or service operations.
+History
+The history of production and operation systems begins around 5000 B.C. when Sumerian priests developed the
+ancient system of recording inventories, loans, taxes, and business transactions. The next major historical
+application of operation systems occurred in 4000 B.C. It was during this time that the Egyptians started using
+planning, organization, and control in large projects such as the construction of the pyramids. By 1100 B.C., labor
+was being specialized in China; by about 370 B.C., Xenophon described the advantages of dividing the various
+operations necessary for the production of shoes among different individuals in ancient Greece:
+"...In large cities, on the other hand, inasmuch as many people have demands to make upon each
+branch of industry, one trade alone, and very often even less than a whole trade, is enough to
+support a man: one man, for instance, makes shoes for men, and another for women; and there are
+places even where one man earns a living by only stitching shoes, another by cutting them out,
+another by sewing the uppers together, while there is another who performs none of these
+operations but only assembles the parts. It follows, therefore, as a matter of course, that he who
+devotes himself to a very highly specialized line of work is bound to do it in the best possible
+manner."
+In the Middle Ages, kings and queens ruled over large areas of land. Loyal noblemen maintained large sections
+of the monarch's territory. This hierarchical organization in which people were divided into classes based on
+social position and wealth became known as the feudal system. In the feudal system, vassals and serfs produced
+for themselves and people of higher classes by using the ruler's land and resources. Although a large part of
+labor was employed in agriculture, artisans contributed to economic output and formed guilds. The guild system,
+operating mainly between 1100 and 1500, consisted of two types: merchant guilds, who bought and sold goods,
+and craft guilds, which made goods. Although guilds were regulated as to the quality of work performed, the
+resulting system was rather rigid, shoemakers, for example, were prohibited from tanning hides.Services were also performed in the Middle Ages by servants. They provided service to the nobility in the form of
+cooking, cleaning and providing entertainment. Court jesters were considered service providers. The medieval
+army could also be considered a service since they defended the nobility.
+The industrial revolution was facilitated by two elements: interchangeability of parts and division of labor.
+Division of labor has been a feature from the beginning of civilization, the extent to which the division is carried
+out varied considerably depending on period and location. Compared to the Middle Ages, the Renaissance and
+the Age of Discovery were characterized by a greater specialization in labor, which was a characteristic of the
+growing cities and trade networks of Europe. An important leap in manufacturing efficiency came in the late
+eighteenth century as Eli Whitney popularized the concept of interchangeability of parts when he manufactured
+10,000 muskets. Up to this point in the history of manufacturing, each product (e.g. each musket) was
+considered a special order, meaning that parts of a given musket were fitted only for that particular musket and
+could not be used in other muskets. Interchangeability of parts allowed the mass production of parts independent
+of the final products in which they would be used. An entire new market to fill the need for the sale and
+manufacturing of muskets began at this time.
+In 1883, Frederick Winslow Taylor introduced the stopwatch method for accurately measuring the time to perform
+each single task of a complicated job. He developed the scientific study of productivity and identifying how to
+coordinate different tasks to eliminate wasting of time and increase the quality of work. The next generation of
+scientific study occurred with the development of work sampling and predetermined motion time systems
+(PMTS). Work sampling is used to measure the random variable associated with the time of each task. PMTS
+allows the use of standard predetermined tables of the smallest body movements (e.g. turning the left wrist by
+90°), and integrating them to predict the time needed to perform a simple task. PMTS has gained substantial
+importance due to the fact that it can predict work measurements without observing the actual work. The
+foundation of PMTS was laid out by the research and development of Frank B. and Lillian M. Gilbreth around
+1912. The Gilbreths took advantage of taking motion pictures at known time intervals while operators were
+performing the given task.
+Service Industries: At the turn of the twentieth century, the services industries were already developed, but
+largely fragmented. In 1900 the U.S. service industry consisted of banks, professional services, schools, general
+stores, railroads and telegraph. Services were largely local in nature (except for railroads and telegraph) and
+owned by entrepreneurs and families. The U.S. in 1900 had 31% employment in services, 31% in manufacturing
+and 38% in agriculture.
+The idea of the production line has been used multiple times in history prior to Henry Ford: the Venetian Arsenal
+(1104); Smith's pin manufacturing, in the Wealth of Nations (1776) or Brunel's Portsmouth Block Mills (1802).
+Ransom Olds was the first to manufacture cars using the assembly line system, but Henry Ford developed the
+first auto assembly system where a car chassis was moved through the assembly line by a conveyor belt while
+workers added components to it until the car was completed. During World War II, the growth of computing
+power led to further development of efficient manufacturing methods and the use of advanced mathematical and
+statistical tools. This was supported by the development of academic programs in industrial and systems
+engineering disciplines, as well as fields of operations research and management science (as multi-disciplinary
+fields of problem solving). While systems engineering concentrated on the broad characteristics of the
+relationships between inputs and outputs of generic systems, operations researchers concentrated on solving
+specific and focused problems. The synergy of operations research and systems engineering allowed for the
+realization of solving large scale and complex problems in the modern era. Recently, the development of faster
+and smaller computers, intelligent systems, and the World Wide Web has opened new opportunities for
+operations, manufacturing, production, and service systems.
+Industrial Revolution
+Before the First industrial revolution work was mainly done through two systems: domestic system and craft
+guilds. In the domestic system merchants took materials to homes where artisans performed the necessary work,
+craft guilds on the other hand were associations of artisans which passed work from one shop to another, for
+example: leather was tanned by a tanner, passed to curriers, and finally arrived at shoemakers and saddlers.
+The beginning of the industrial revolution is usually associated with 18th century English textile industry, with the
+invention of flying shuttle by John Kay in 1733, the spinning jenny by James Hargreaves in 1765, the water frame
+by Richard Arkwright in 1769 and the steam engine by James Watt in 1765.In 1851 at the Crystal Palace
+Exhibition the term American system of manufacturing was used to describe the new approach that was evolvingin the United States of America which was based on two central features: interchangeable parts and extensive
+use of mechanization to produce them.
+Second Industrial Revolution and post-industrial society
+Henry Ford was 39 years old when he founded the Ford Motor Company in 1903, with $28,000 capital from
+twelve investors. The model T car was introduced in 1908, however it was not until Ford implemented the
+assembly line concept, that his vision of making a popular car affordable by every middle-class American citizen
+would be realized. The first factory in which Henry Ford used the concept of the assembly line was Highland
+Park (1913), he characterized the system as follows:
+"The thing is to keep everything in motion and take the work to the man and not the man to the work.
+That is the real principle of our production, and conveyors are only one of many means to an end"
+This became one the central ideas that led to mass production, one of the main elements of the Second
+Industrial Revolution, along with emergence of the electrical industry and petroleum industry.
+The post-industrial economy was noted in 1973 by Daniel Bell. He stated that the future economy would provide
+more GDP and employment from services than from manufacturing and have a great effect on society. Since all
+sectors are highly interconnected, this did not reflect less importance for manufacturing, agriculture, and mining
+but just a shift in the type of economic activity.
+Operations management
+Although productivity benefited considerably from technological inventions and division of labor, the problem of
+systematic measurement of performances and the calculation of these by the use of formulas remained
+somewhat unexplored until Frederick Taylor, whose early work focused on developing what he called a
+"differential piece-rate system" and a series of experiments, measurements and formulas dealing with cutting
+metals and manual labor. The differential piece-rate system consisted in offering two different pay rates for doing
+a job: a higher rate for workers with high productivity (efficiency) and who produced high quality goods
+(effectiveness) and a lower rate for those who fail to achieve the standard. One of the problems Taylor believed
+could be solved with this system, was the problem of soldiering: faster workers reducing their production rate to
+that of the slowest worker.In 1911 Taylor published his "The Principles of Scientific Management", in which he
+characterized scientific management (also known as Taylorism) as:
+1. The development of a true science;
+2. The scientific selection of the worker;
+3. The scientific education and development of the worker;
+4. Intimate friendly cooperation between the management and the workers.
+Taylor is also credited for developing stopwatch time study, this combined with Frank and Lillian Gilbreth motion
+study gave way to time and motion study which is centered on the concepts of standard method and standard
+time. Frank Gilbreth is also responsible for introducing the flow process chart in 1921. Other contemporaries of
+Taylor worth remembering are Morris Cooke (rural electrification in the 1920s and implementer of Taylor's
+principles of scientific management in the Philadelphia's Department of Public Works), Carl Barth (speed-andfeed-calculating slide rules ) and Henry Gantt (Gantt chart). Also in 1910 Hugo Diemer published the first
+industrial engineering book: Factory Organization and Administration.
+In 1913 Ford Whitman Harris published his "How many parts to make at once" in which he presented the idea of
+the economic order quantity model. He described the problem as follows:
+"Interest on capital tied up in wages, material and overhead sets a maximum limit to the quantity of
+parts which can be profitably manufactured at one time; "setup costs" on the job fix the minimum.
+Experience has shown one manager a way to determine the economical size of lots"
+This paper inspired a large body of mathematical literature focusing on the problem of production planning and
+inventory control.
+In 1924 Walter Shewhart introduced the control chart through a technical memorandum while working at Bell
+Labs, central to his method was the distinction between common cause and special cause of variation. In 1931Shewhart published his Economic Control of Quality of Manufactured Product, the first systematic treatment of
+the subject of Statistical Process Control (SPC). He defined control:
+"For our present purpose a phenomenon will be said to be controlled when, through the use of past
+experience, we can predict, at least within limits, how the phenomenon may be expected to vary in
+the future. Here it is understood that prediction within limits means that we can state, at least
+approximately, the probability that the observed phenomenon will fall within the given limits."
+In the 1940s methods-time measurement (MTM) was developed by H.B. Maynard, J.L. Schwab and G.J.
+Stegemerten. MTM was the first of a series of predetermined motion time systems, predetermined in the sense
+that estimates of time are not determined in loco but are derived from an industry standard. This was explained
+by its originators in a book they published in 1948 called "Method-Time Measurement".
+The methods-time measurement may be defined as follows:
+Methods-time measurement is a procedure which analyzes any manual operation or method into the
+basic motions required to perform it and assigns to each motion a predetermined time standard
+which is determined by the nature of the motion and the conditions under which it is made.
+Thus it may be seen that methods-time measurement is basically a tool of method analysis that
+gives answers in terms of time without the necessity of making stop-watch time studies.
+Up to this point in history, optimization techniques were known for a very long time, from the simple methods
+employed by F.W.Harris to the more elaborate techniques of the calculus of variations developed by Euler in
+1733 or the multipliers employed by Lagrange in 1811, and computers were slowly being developed, first as
+analog computers by Sir William Thomson (1872) and James Thomson (1876) moving to the eletromechanical
+computers of Konrad Zuse (1939 and 1941). During World War II however, the development of mathematical
+optimization went through a major boost with the development of the Colossus computer, the first electronic
+digital computer that was all programmable, and the possibility to computationally solve large linear programming
+problems, first by Kantorovich in 1939 working for the Soviet government and latter on in 1947 with the simplex
+method of Dantzig. These methods are known today as belonging to the field of operations research.
+From this point on a curious development took place: while in the United States the possibility of applying the
+computer to business operations led to the development of management software architecture such as MRP and
+successive modifications, and ever more sophisticated optimization techniques and manufacturing simulation
+software, in post-war Japan a series of events at Toyota Motor led to the development of the Toyota Production
+System (TPS) and Lean Manufacturing.
